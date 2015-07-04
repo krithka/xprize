@@ -1,2 +1,2 @@
 # xprize
-software for Global Learning X-Prize
+Software developed by team iPrimer.
